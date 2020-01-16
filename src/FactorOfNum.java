@@ -50,7 +50,8 @@ public class FactorOfNum {
                 finished = false;
 
             }
-
+            System.out.println("You are Done Thanks");
+            
         }
 
     }
